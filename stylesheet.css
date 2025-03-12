@@ -1,0 +1,30 @@
+/* Requirement 1: Use a CSS selector to apply style(s) to at least one HTML tag. */
+h1 {
+    color: darkblue;
+    font-size: 24px;
+}
+
+/* Requirement 2: Create at least one class, apply it to at least two elements, and style it. */
+.my-class {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 12px;
+    background-color: yellow;
+}
+
+/* Requirement 3: Create at least one id, apply it to an element, and style it. */
+#elem-id {
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+/* Requirement 5: Use <a> to link to another website. */
+a {
+    color: blue;
+    text-decoration: none;
+}
+/* Requirement 6: Use a CSS selector to change the color of <a> when you hover the cursor over it. */
+a:hover {
+    color: purple;
+    text-decoration: underline;
+}
